@@ -1,0 +1,7 @@
+pip install interact
+pip install ipywidgets
+pip install ipywebrtc
+pip install kraken
+pip install opencv-python
+pip install pillow
+pip install pytesseract
